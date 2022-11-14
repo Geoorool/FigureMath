@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FigureMath", "FigureMath\FigureMath.csproj", "{8A7C1819-CE65-42E9-9E18-D0D2FF450C65}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FigureMathNUnitTests", "FigureMathNUnitTests\FigureMathNUnitTests.csproj", "{4774B77C-8DD7-4A3D-B70E-71CE2F4BE0AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A7C1819-CE65-42E9-9E18-D0D2FF450C65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A7C1819-CE65-42E9-9E18-D0D2FF450C65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A7C1819-CE65-42E9-9E18-D0D2FF450C65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A7C1819-CE65-42E9-9E18-D0D2FF450C65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4774B77C-8DD7-4A3D-B70E-71CE2F4BE0AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4774B77C-8DD7-4A3D-B70E-71CE2F4BE0AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4774B77C-8DD7-4A3D-B70E-71CE2F4BE0AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4774B77C-8DD7-4A3D-B70E-71CE2F4BE0AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
